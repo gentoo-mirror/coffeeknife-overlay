@@ -103,7 +103,7 @@ CRATES="
 	gix-validate@0.8.5
 	globset@0.4.14
 	handlebars@5.1.2
-	handlebars_misc_helpers@0.17.0
+	handlebars_misc_helpers@0.15.0
 	hashbrown@0.14.5
 	heck@0.5.0
 	hermit-abi@0.3.9
@@ -146,8 +146,6 @@ CRATES="
 	normalize-path@0.2.1
 	notify@6.1.1
 	num-conv@0.1.0
-	num-modular@0.6.1
-	num-order@1.2.0
 	num-traits@0.2.19
 	num_threads@0.1.7
 	object@0.36.2
