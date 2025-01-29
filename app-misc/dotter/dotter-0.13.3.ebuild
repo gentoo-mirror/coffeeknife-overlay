@@ -282,6 +282,7 @@ DESCRIPTION="A dotfile manager and templater written in rust"
 HOMEPAGE="https://github.com/SuperCuber/dotter"
 SRC_URI="
 	${CARGO_CRATE_URIS}
+	https://github.com/SuperCuber/dotter/archive/refs/tags/v0.13.3.tar.gz
 "
 
 LICENSE="Unlicense"
