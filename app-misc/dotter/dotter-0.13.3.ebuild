@@ -102,7 +102,7 @@ CRATES="
 	gix-utils@0.1.12
 	gix-validate@0.8.5
 	globset@0.4.14
-	handlebars@6.2.0
+	handlebars@5.1.2
 	handlebars_misc_helpers@0.17.0
 	hashbrown@0.14.5
 	heck@0.5.0
