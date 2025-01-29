@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person" status="active">
+        <email>coffeeknife@proton.me</email>
+        <name>coffeeknife</name>
+    </maintainer>
+    <upstream>
+        <remote-id type="github">SuperCuber/dotter</remote-id>
+        <doc>https://github.com/SuperCuber/dotter/wiki</doc>
+        <bugs-to>https://github.com/SuperCuber/dotter/issues</bugs-to>
+    </upstream>
+</pkgmetadata>
