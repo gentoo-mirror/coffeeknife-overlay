@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <repositories version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name>coffeeknife</name>
+    <name>coffeeknife-overlay</name>
       <description lang="en">personal overlay for packages i need</description>
         <homepage>https://github.com/coffeeknife/coffeeknife-overlay</homepage>
         <owner type="person">

@@ -5,8 +5,8 @@ Just some ebuilds I wrote for packages that I couldn't find in any overlays.
 To use this overlay:
 
 ```bash
-eselect repository add coffeeknife git git://github.com/coffeeknife/coffeeknife-overlay.git
-emaint sync -r coffeeknife
+eselect repository add coffeeknife-overlay git git://github.com/coffeeknife/coffeeknife-overlay.git
+emaint sync -r coffeeknife-overlay
 ```
 
 ## current packages
