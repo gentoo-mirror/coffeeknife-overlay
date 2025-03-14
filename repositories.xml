@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>coffeeknife</name>
+      <description lang="en">personal overlay for packages i need</description>
+        <homepage>https://github.com/coffeeknife/coffeeknife-overlay</homepage>
+        <owner type="person">
+            <name>coffeeknife</name>
+            <email>coffeeknife@proton.me</email>
+        </owner>
+        <source type="git">git://github.com/coffeeknife/coffeeknife-overlay.git</source>
+        <feed>https://github.com/coffeeknife/coffeeknife-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
