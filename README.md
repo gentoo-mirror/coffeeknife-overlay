@@ -13,5 +13,5 @@ emaint sync -r coffeeknife
 
 | package | version | description |
 | --- | --- | --- |
-| [app-misc/dotter](https://github.com/SuperCuber/dotter) | 0.13.3 ~amd64 | A dotfile manager and templater written in rust 🦀 |
+| [app-misc/dotter](https://github.com/SuperCuber/dotter) | 0.13.3 ~amd64 | SuperCuber's dotter: A dotfile manager and templater written in rust 🦀 |
 |[ mail-client/proton-mail-bin](https://proton.me/mail/download) | 1.7.1 ~amd64 | Official desktop client for [proton.me](https://proton.me). Uses their RPM. |
