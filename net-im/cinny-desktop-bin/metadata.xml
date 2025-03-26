@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+    <maintainer type="person" status="active">
+        <email>coffeeknife@proton.me</email>
+        <name>coffeeknife</name>
+    </maintainer>
+    <upstream>
+        <remote-id type="github">cinnyapp/cinny-desktop</remote-id>
+    </upstream>
+</pkgmetadata>
