@@ -1,0 +1,4 @@
+app-misc/dotter 0.13.3: A dotfile manager and templater written in rust
+games-util/gamemode 1.8.2: Optimise Linux system performance on demand
+mail-client/proton-mail-bin 1.7.1: Beta Client for Proton Mail
+net-im/cinny-desktop-bin 4.5.1: Yet another matrix client for desktop
